@@ -19,7 +19,7 @@ public class UserService {
             return true;
         } catch (IOException e) {
             return false;
-        }
+        }                            //test
     }
 
     public boolean authenticateUser(String username, String password) {
