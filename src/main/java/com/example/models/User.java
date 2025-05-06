@@ -10,7 +10,7 @@ public class User {
         this.password = password;
         this.email = email;
     }
-
+    //example commit
     public String getUsername() { return username; }
     public String getPassword() { return password; }
     public String getEmail() { return email; }
