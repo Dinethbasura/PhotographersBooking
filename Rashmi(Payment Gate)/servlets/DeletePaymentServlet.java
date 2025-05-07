@@ -36,5 +36,9 @@ public class DeletePaymentServlet extends HttpServlet {
         }
 
         response.sendRedirect("paymentHistory");
+<<<<<<< Updated upstream
     }
+=======
+    }               //test
+>>>>>>> Stashed changes
 }
